@@ -17,14 +17,11 @@ By using this tool, you accept the entire responsability that comes with using s
 
 ## Using the tool
 
-To use this tool you can either visit [aziascreations.github.io/Excel-Worksheet-Password-Remover](https://aziascreations.github.io/Excel-Worksheet-Password-Remover) or download the repository.
-
-## Video Demo
-
-[![Demo - Youtube Video](https://img.youtube.com/vi/tMO9ahYELI0/hqdefault.jpg)](https://www.youtube.com/watch?v=tMO9ahYELI0)
+To use this tool you can either visit [ritter99.github.io/Excel-Worksheet-Password-Remover](https://ritter99.github.io/Excel-Worksheet-Password-Remover) or download the repository.
 
 ## License
 
 [Unlicense](LICENSE)
 
-This license does not apply to [Bootstrap](https://getbootstrap.com/) and [JSZip](https://stuk.github.io/jszip/).
+## Credits
+Original repo: [aziascreations/Excel-Worksheet-Password-Remover](https://github.com/aziascreations/Excel-Worksheet-Password-Remover)
