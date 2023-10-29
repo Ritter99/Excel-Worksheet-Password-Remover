@@ -17,7 +17,7 @@ By using this tool, you accept the entire responsability that comes with using s
 
 ## Using the tool
 
-To use this tool you can either visit [young-hnau.github.io/Excel-Worksheet-Password-Remover](https://ritter99.github.io/Excel-Worksheet-Password-Remover) or download the repository.
+To use this tool you can either visit [young-hnau.github.io/Excel-Worksheet-Password-Remover](https://young-hnau.github.io/Excel-Worksheet-Password-Remover) or download the repository.
 
 ## License
 
